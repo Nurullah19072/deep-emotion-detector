@@ -11,26 +11,26 @@ This is a real-time emotion recognition system built with Python. After preproce
 ---
 ##   NOT
 * TR:
-Bu projede kullanılan veri seti, yüz ifadelerine göre duyguları sınıflandırmak amacıyla hazırlanmış bir görüntü veri setidir. Ancak bu veri seti artık Kaggle platformundan kaldırıldığı ve boyutu oldukça büyük olduğu için bu repoya doğrudan dahil edilememiştir.
+  Bu projede kullanılan veri seti, yüz ifadelerine göre duyguları sınıflandırmak amacıyla hazırlanmış bir görüntü veri setidir. Ancak bu veri seti artık Kaggle platformundan kaldırıldığı ve boyutu oldukça büyük    olduğu için bu repoya doğrudan dahil edilememiştir.
 
-Projeyi çalıştırmak isteyen kullanıcılar, benzer bir veri setini aşağıdaki şekilde yapılandırabilir:
+  Projeyi çalıştırmak isteyen kullanıcılar, benzer bir veri setini aşağıdaki şekilde yapılandırabilir:
 
-Ana klasör adı: archive/
+  Ana klasör adı: archive/
 
-Alt klasörler: happy/, sad/, angry/, neutral/, fear/, surprise/
+  Alt klasörler: happy/, sad/, angry/, neutral/, fear/, surprise/
 
-Her klasör içinde: ilgili duyguya ait .jpg veya .png görseller
+  Her klasör içinde: ilgili duyguya ait .jpg veya .png görseller
 
 * EN:
-The dataset used in this project was originally hosted on Kaggle and contained facial images categorized by emotion. However, since it has been removed from Kaggle and is also too large to include in this repository, it is not directly shared here.
+  The dataset used in this project was originally hosted on Kaggle and contained facial images categorized by emotion. However, since it has been removed from Kaggle and is also too large to include in this        repository, it is not directly shared here.
 
-If you'd like to run the project, you can use your own dataset organized as follows:
+  If you'd like to run the project, you can use your own dataset organized as follows:
 
-Main folder: archive/
+  Main folder: archive/
 
-Subfolders: happy/, sad/, angry/, neutral/, fear/, surprise/
+  Subfolders: happy/, sad/, angry/, neutral/, fear/, surprise/
 
-Each folder should contain images (.jpg / .png) representing that emotio
+  Each folder should contain images (.jpg / .png) representing that emotio
 
 ---
 
