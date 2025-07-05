@@ -31,6 +31,7 @@ Main folder: archive/
 Subfolders: happy/, sad/, angry/, neutral/, fear/, surprise/
 
 Each folder should contain images (.jpg / .png) representing that emotio
+
 ---
 
 
