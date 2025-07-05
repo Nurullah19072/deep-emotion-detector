@@ -89,11 +89,7 @@ Kod içinde `model.fit(...)` bölümüyle CNN modeli eğitilir ve `best_model_au
 ---
 
 ### 4. Uygulama Çalıştırma / Run GUI
-
-```bash
-python grup10.py
-```
-
+-Run tuşuna bas.
 - GUI açılır.
 - "📁 Fotoğraf Seç" butonu ile görselden duygu tanıma yapılır.
 - "📷 Kamerayla Analiz Et" butonu ile canlı analiz yapılır.
